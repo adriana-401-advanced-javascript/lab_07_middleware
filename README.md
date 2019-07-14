@@ -5,7 +5,7 @@
 ### Adriana Graybill, Aileen, and Austin
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/adriana-401-advanced-javascript/lab_07_middleware/pull/1)
 
 ### Setup
 #### `.env` requirements
