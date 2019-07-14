@@ -16,4 +16,4 @@
 * node server.js
 
 #### UML
-![Whiteboard](./assets/image.jpg)
+![Whiteboard](./assets/lab-7-middleware.png)
